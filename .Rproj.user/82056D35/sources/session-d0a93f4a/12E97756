@@ -3,7 +3,11 @@
     "path": "C:/Users/madha/Downloads/Desktop/33615896-Madhab_Assignment_3_5/example.Rmd",
     "project_path": "example.Rmd",
     "type": "r_markdown",
+<<<<<<< HEAD
     "hash": "2532792098",
+=======
+    "hash": "0",
+>>>>>>> branch2
     "contents": "",
     "dirty": false,
     "created": 1684662965868.0,
@@ -13,6 +17,7 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
+<<<<<<< HEAD
         "cursorPosition": "12,4",
         "scrollLine": "0"
     },
@@ -22,6 +27,17 @@
     "collab_server": "",
     "source_window": "",
     "last_content_update": 1684663234354,
+=======
+        "cursorPosition": "12,6",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1684663106,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1684663106164,
+>>>>>>> branch2
     "read_only": false,
     "read_only_alternatives": []
 }
